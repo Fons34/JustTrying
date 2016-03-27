@@ -1,2 +1,3 @@
 Hello, this is just some text.
 Thought I'd add one more line.
+This a line that has been created in the first branch.
